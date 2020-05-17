@@ -1,0 +1,188 @@
+13 Abril Camas
+intensivo
+ocupadas
+65%
+Camas
+intermedio
+ocupadas
+62% Ventiladores
+ocupados 42%
+Pacientes
+COVID19
+ventilados 335
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Centros consultados 120
+Centros que responden encuesta 118 (98%)
+Camas totales intensivo 1479
+Camas totales intermedio 1496
+Ventiladores mecánicos invasivos disponibles 1623
+Pacientes hospitalizados en cuidados intensivos 962
+Pacientes hospitalizados en cuidados intermedios 923
+Pacientes en ventilación mecánica invasiva 685
+Ocupación de unidades de cuidados intensivos 65%
+Ocupación de unidades de intermedios 62%
+Ocupación de ventiladores mecánicos disponibles 42%
+Pacientes COVID19 confirmados hospitalizados en UPC 480
+Pacientes COVID19 Confirmados en ventilación mecánica 335
+Pacientes en espera de confirmación en ventilación mecánica 39
+Pacientes COVID 19 y sospecha en ventilación mecánica 374
+1479
+962
+685
+335
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+13-04-2020
+Ocupación de camas UCI durante
+campaña COVID-19
+a nivel nacional.
+Camas de UCI consultadas disponibles
+Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica
+Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+726
+818
+1036
+1156 1190
+1312
+1374
+1326
+1400
+1446 1468 1479
+564 590 588
+696 729
+785
+854
+799 808
+916 951 962
+412 450 410
+530 541 579
+663
+615
+702 696 720 685
+138
+197 180
+255 248 275 313 286 314 323 318 335
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+02-04-2020 03-04-2020 04-04-2020 05-04-2020 06-04-2020 07-04-2020 08-04-2020 09-04-2020 10-04-2020 11-04-2020 12-04-2020 13-04-2020
+Ocupación de camas UCI durante campaña COVID-19
+a nivel nacional.
+Camas de UCI consultadas disponibles Camas de UCI ocupadas Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+0
+100
+200
+300
+400
+500
+600
+700
+800
+XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII
+Distribución regional en la ocupación de camas críticas durante la campaña
+COVID 19
+Camas de UCI consultadas disponibles Camas UCI Ocupadas
+Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+0%
+20%
+40%
+60%
+80%
+100%
+XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII
+75% 50% 61% 36% 52% 65% 64% 56% 61% 44% 68% 81% 61% 88% 25% 74%
+Distribución Camas por Región
+Camas UCI Ocupadas Camas UCI Disponibles
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+716 763
+456 506
+321 364
+169 166
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+RM Regiones
+Ocupación de camas UCI en RM y en
+regiones durante la campaña
+COVID19
+115
+1129
+64 235
+715
+48 183
+491
+9 229 146 97
+0
+200
+400
+600
+800
+1000
+1200
+Norte (XV, I, II, III, IV) Centro (V, VI, VII,
+XVI, VIII, RM)
+Sur (IX, X, XI, XII,
+XIV)
+Distribucion por Sector
+56
+473
+950
+1479
+33
+231
+698
+962
+23 143
+519
+685
+20 80
+235
+335
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+FFAA Privado Público Total
+Ocupación de camas UCI en centros públicos,
+privados y FFAA durante la campaña COVID 19
+Camas de UCI consultadas disponibles
+Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica
+Pacientes COVID 19 en Ventilación Mecánica Invasiva

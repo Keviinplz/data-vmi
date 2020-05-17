@@ -1,0 +1,187 @@
+10 Abril Camas
+intensivo
+ocupadas
+62%
+Camas
+intermedio
+ocupadas
+66% Ventiladores
+ocupados 45%
+Pacientes
+COVID19
+ventilados 314
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Centros consultados 122
+Centros que responden encuesta 112 (92%)
+Camas totales intensivo 1400
+Camas totales intermedio 1417
+Ventiladores mecánicos invasivos disponibles 1557
+Pacientes hospitalizados en cuidados intensivos 868
+Pacientes hospitalizados en cuidados intermedios 930
+Pacientes en ventilación mecánica invasiva 702
+Ocupación de unidades de cuidados intensivos 62%
+Ocupación de unidades de intermedios 66%
+Ocupación de ventiladores mecánicos disponibles 45%
+Pacientes COVID19 confirmados hospitalizados en UPC 432
+Pacientes COVID19 Confirmados en ventilación mecánica 314
+Pacientes en espera de confirmación en ventilación mecánica 36
+Pacientes COVID 19 y sospecha en ventilación mecánica 350
+1400
+868
+702
+314
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+10-04-2020
+Ocupación de camas UCI durante
+campaña COVID-19
+a nivel nacional.
+Camas de UCI consultadas disponibles
+Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica
+Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+726
+818
+1036
+1156 1190
+1312
+1374
+1326
+1400
+564 590 588
+696 729
+785
+854
+799
+868
+412 450 410
+530 541 579
+663
+615
+702
+138
+197 180
+255 248 275 313 286 314
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+02-04-2020 03-04-2020 04-04-2020 05-04-2020 06-04-2020 07-04-2020 08-04-2020 09-04-2020 10-04-2020
+Ocupación de camas UCI durante campaña COVID-19
+a nivel nacional.
+Camas de UCI consultadas disponibles Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+0%
+20%
+40%
+60%
+80%
+100%
+XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII
+36% 83% 54% 50% 52% 60% 61% 59% 53% 48% 68% 83% 57% 77% 13% 69%
+Distribución Camas por Región
+Camas UCI Ocupadas Camas UCI Disponibles
+0
+100
+200
+300
+400
+500
+600
+700
+800
+XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII
+Distribución regional en la ocupación de camas críticas durante la
+campaña COVID 19
+Camas de UCI consultadas disponibles Camas UCI Ocupadas
+Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+37
+432
+931
+1400
+13
+191
+664
+868
+17 146
+539
+702
+9 67
+238
+314
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+FFAA Privada Pública Total
+Ocupación de camas UCI en centros
+públicos, privados y FFAA durante la
+campaña COVID 19
+Camas de UCI consultadas disponibles
+Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica
+Pacientes COVID 19 en Ventilación Mecánica Invasiva
+691 709
+421 447
+336 366
+136 178
+0
+100
+200
+300
+400
+500
+600
+700
+800
+RM Regiones
+Ocupación de camas UCI en RM y en
+regiones durante la campaña COVID19
+109
+1076
+57 215
+653
+57 158
+505
+9 206 140 99
+0
+200
+400
+600
+800
+1000
+1200
+Norte (XV, I, II, III, IV) Centro (V, VI, VII, XVI,
+VIII, RM)
+Sur (IX, X, XI, XII, XIII,
+XIV)
+Distribucion por Sector

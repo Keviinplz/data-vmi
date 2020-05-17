@@ -1,0 +1,301 @@
+20 Abril Camas
+intensivo
+ocupadas
+65%
+Camas
+intermedio
+ocupadas
+68% Ventiladores
+ocupados 41%
+Pacientes
+COVID19
+ventilados 324
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Centros consultados 120
+Centros que responden encuesta 118 (98%)
+Camas totales intensivo 1543
+Camas totales intermedio 1549
+Ventiladores mecánicos invasivos disponibles 1722
+Pacientes hospitalizados en cuidados intensivos 999
+Pacientes hospitalizados en cuidados intermedios 1057
+Pacientes en ventilación mecánica invasiva 705
+Ocupación de unidades de cuidados intensivos 65%
+Ocupación de unidades de intermedios 68%
+Ocupación de ventiladores mecánicos disponibles 41%
+Pacientes COVID19 confirmados hospitalizados en UPC 528
+Pacientes COVID19 Confirmados en ventilación mecánica 324
+Pacientes en espera de confirmación en ventilación mecánica 43
+Pacientes COVID 19 y sospecha en ventilación mecánica 367
+1543
+999
+705
+324
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+20-04-2020
+Ocupación de camas UCI durante
+campaña COVID-19
+a nivel nacional.
+Camas de UCI consultadas disponibles
+Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica
+Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+726
+818
+1036
+1156 1190
+1312
+1374
+1326
+1400
+1446 1468 1479 1472 1466 1484 1480 1504 1510 1543
+564 590 588
+696 729
+785
+854
+799 808
+916 951 962 969 959 959 957 954 971 999
+412 450 410
+530 541 579
+663
+615
+702 696 720 685 725 692 706 703 718 707 705
+138
+197 180
+255 248 275 313 286 314 323 318 335 314 314 316 332 352 337 324
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+Ocupación de camas UCI durante campaña COVID-19
+a nivel nacional.
+Camas de UCI consultadas disponibles Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+0
+200
+400
+600
+800
+XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII
+Distribución regional en la ocupación de camas críticas durante la campaña
+COVID 19
+Camas de UCI consultadas disponibles Camas UCI Ocupadas
+Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII
+36% 29% 71% 57% 61% 67% 67% 55% 61% 56% 46% 68% 70% 85% 13% 90%
+Distribución Camas por Región
+Camas UCI Ocupadas Camas UCI Disponibles
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+134
+1189
+220
+76
+758
+165
+64
+523
+118
+15
+233
+76
+0
+200
+400
+600
+800
+1000
+1200
+1400
+Norte (XV, I, II, III, IV) Centro (V, VI, VII, XVI,
+VIII, RM)
+Sur (IX, X, XI, XII, XIV)
+Distribucion por Sector
+761 782
+511 488
+378
+327
+178 146
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+RM Regiones
+Ocupación de camas UCI en RM y en
+regiones durante la campaña COVID-19
+54
+579
+910
+1543
+19
+345
+635
+999
+11 182
+512
+705
+5 75
+244
+324
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+FFAA Privado Público Total
+Ocupación de camas UCI en centros
+públicos, privados y FFAA durante la
+campaña COVID 19
+Camas de UCI consultadas disponibles
+Camas de UCI ocupadas
+Pacientes en Ventilación Mecanica
+Pacientes COVID 19 en Ventilación Mecánica Invasiva
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+198
+121 63
+194
+61 76
+713
+158
+49 48 105
+44 70
+474
+114
+34 43 46 44 57
+338
+52 15 19 31 21 18
+156
+0
+200
+400
+600
+800
+Central Norte Occidente Oriente Sur Sur Oriente Total
+Distribución REGION METROPOLITANA en la ocupación de camas críticas
+durante la campaña COVID 19
+Camas de UCI consultadas disponibles Camas UCI Ocupadas
+Pacientes en Ventilación Mecanica Pacientes COVID 19 en Ventilación Mecánica Invasiva
+0%
+20%
+40%
+60%
+80%
+100%
+Central Norte Occidente Oriente Sur Sur Oriente Total
+80% 40% 76% 54% 72% 92% 66%
+Distribución Camas en REGION METROPOLITANA
+Camas UCI Ocupadas Camas UCI Disponibles
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+SERVICIO DE SALUD
+METROPOLITANOS
+(19/04/2020)
+Número de ventiladores
+mecánicos invasivos
+(VMI)
+Pacientes en VMI
+totales % OCUPACION VMI
+Pacientes en VMI
+COVID-19
+confirmados
+Pacientes en VMI
+COVID-19 NO
+confirmados
+(sospechoso)
+% COVID en VMI
+CENTRAL 78 68 87,2% 39 7 59,0%
+NORTE 22 17 77,3% 9 0 40,9%
+OCCIDENTE 78 37 47,4% 17 0 21,8%
+ORIENTE 77 24 31,2% 17 4 27,3%
+SUR 60 36 60,0% 18 2 33,3%
+SUR ORIENTE 63 58 92,1% 27 1 44,4%
+TOTAL PUBLICO
+METROPOLITANO 378 240 63,5% 127 14 37,3%
+SERVICIO DE SALUD
+METROPOLITANOS % OCUPACIÓN 16.04.20 17.04.20 18.04.20 19.04.20 20.04.20 TEND
+CENTRAL
+% OcupaciónVMI 69,1% 79,0% 79,0% 82,7% 87,2% →
+% COVID en VMI 46,9% 54,3% 53,1% 59,3% 59,0% →
+NORTE
+% OcupaciónVMI 54,5% 54,5% 54,5% 63,6% 77,3% ↑
+% COVID en VMI 22,7% 31,8% 31,8% 36,4% 40,9% ↑
+OCCIDENTE
+% OcupaciónVMI 54,5% 54,5% 55,1% 48,7% 47,4% ↓
+% COVID en VMI 26,0% 26,0% 26,9% 24,4% 21,8% ↓
+ORIENTE
+% OcupaciónVMI 22,1% 23,4% 26,0% 29,9% 31,2% ↑
+% COVID en VMI 9,1% 14,3% 14,3% 23,4% 27,3% ↑
+SUR
+% OcupaciónVMI 78,3% 73,3% 68,3% 73,3% 60,0% ↓
+% COVID en VMI 43,3% 40,0% 38,3% 43,3% 33,3% ↓
+SUR ORIENTE
+% OcupaciónVMI 84,2% 80,7% 82,8% 91,5% 92,1% ↑
+% COVID en VMI 38,6% 40,4% 48,3% 49,2% 44,4% ↓
+TOTAL H. PUBLICOS
+METROPOLITANOS
+% OcupaciónVMI 59,4% 60,4% 60,6% 63,7% 63,5% →
+% COVID en VMI 31,6% 34,5% 35,4% 39,3% 37,3% ↓
+Encuesta realizada por equipo de Epidemiología SOCHIMI - Universidad Finis Terrae
+Ocupación de VMI en HOSPITALES PÚBLICOS de la REGIÓN METROPOLITANA (20/04/2020)
+EVOLUCIÓN de Ocupación de VMI en HOSPITALES PÚBLICOS de la REGIÓN METROPOLITANA
+Encuesta realizada por equipo de epidemiología SOCHIMI – Universidad Finis Terrae Reporte: Daniel Agüero. Diseño: Sebastián Merino
+Encuesta nacional sobre ocupación de unidades criticas
+durante contingencia COVID19
+Para más información sobre COVID-19 y otros temas, escanee este código QR.
+Región XV I II III IV V RM VI VII XVI VIII IX XIV X XI XII Total
+Pacientes COVID en ECMO 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Pacientes COVID en PRONO 0 1 0 1 0 3 34 0 0 2 2 8 1 1 0 3 56
+Pacientes COVID EXTUBADOS
+(24HRS) 1 0 0 0 0 1 16 0 0 1 3 4 2 2 0 4 34
+Pacientes COVID FALLECIDOS
+(24HRS) 0 0 0 0 0 0 13 0 1 0 0 0 0 0 0 0 14

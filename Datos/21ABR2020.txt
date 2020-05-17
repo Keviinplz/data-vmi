@@ -1,0 +1,17 @@
+from extraer_tabla_de_comunas import copia_texto_desde_archivo
+import os
+
+
+textos = {}
+directory = '../../../encuestas/'
+
+for filename in os.listdir(directory):
+    if filename.endswith(".pdf"):
+        in_file = os.path.join(directory, filename)
+        textos[in_file] = copia_texto_desde_archivo(in_file)
+
+for in_file in textos:
+    day = in_file[27:36]
+    out_filename = 'tmp/' + day + '.txt'
+    with open(out_filename, 'w') as outfile:
+        outfile.write(textos[in_file])
