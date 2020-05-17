@@ -1,5 +1,4 @@
 import re
-import json
 from os import listdir
 from os.path import isfile, join
 import pandas as pd
@@ -34,7 +33,6 @@ for i in range(len(centros)):
 
 indexs = pd.MultiIndex.from_tuples(tuples, names=['Ubicacion Centro', 'Informacion']) 
 
-data_json = json.dumps(data)
 df = pd.DataFrame(data, index=indexs)
 
 
